@@ -20,7 +20,7 @@ Making low time consuming and highly understandable business reports using excel
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](h)_ & _[Months](https://github.com/rohithat24/Excel-Data-Analysis/blob/main/GM%20By%20quaters%20report.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rohithat24/Excel-Data-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/rohithat24/Excel-Data-Analysis/blob/main/GM%20By%20quaters%20report.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rohithat24/Excel-Data-Analysis/blob/main/P%20%26%20L%20for%20market%20report.pdf)_
 
